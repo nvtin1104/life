@@ -1,0 +1,21 @@
+{
+  "spreadsheet_id": "1a1ITaB2mik0jeNpV5P2GImeuChrDc0iXHuauEnzTjiA",
+  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1a1ITaB2mik0jeNpV5P2GImeuChrDc0iXHuauEnzTjiA/edit",
+  "sheet_ids": {
+    "ThongKe": 0,
+    "ChiTieu": 1,
+    "BuaAn": 2
+  },
+  "spreadsheet_title": "Chi tiêu & Bữa ăn",
+  "sheets": {
+    "summary": "ThongKe",
+    "expenses": "ChiTieu",
+    "meals": "BuaAn"
+  },
+  "timezone": "Asia/Ho_Chi_Minh",
+  "currency": "VND",
+  "default_payment_method": "Tiền mặt",
+  "monthly_budget": 0,
+  "daily_calorie_target": 2000,
+  "receipts_dir": "data/receipts"
+}
